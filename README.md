@@ -18,8 +18,6 @@ Para ejecutar este notebook:
 3. Instala las dependencias necesarias ejecutando `pip install -r requirements.txt` (si tienes un archivo de requirements).
 4. Abre el notebook en Jupyter para visualizar y ejecutar el análisis.
 
-## Estructura del Proyecto
-Descripción de los archivos y directorios importantes del proyecto (si aplica).
 
 ## Contribuciones
 Las contribuciones son siempre bienvenidas. Por favor, lee el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta, y el proceso para enviarnos solicitudes de cambios (pull requests).
