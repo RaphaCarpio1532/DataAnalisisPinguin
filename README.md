@@ -3,12 +3,13 @@ Este proyecto presenta un análisis de datos exhaustivo utilizando Python y Jupy
 # Análisis de Datos Práctico con Python y Jupyter Notebook
 
 ## Descripción
-Este repositorio contiene un proyecto práctico de análisis de datos realizado con Python en un Jupyter Notebook. A través de este proyecto, demuestro habilidades fundamentales en el manejo de datos, incluyendo limpieza, transformación, análisis exploratorio y visualización de datos. El análisis se enfoca en [describir brevemente el conjunto de datos o el caso de estudio específico].
-
+Este repositorio contiene un proyecto práctico de análisis de datos realizado con Python en un Jupyter Notebook. A través de este proyecto, demuestro habilidades fundamentales en el manejo de datos, incluyendo limpieza, transformación, análisis exploratorio y visualización de datos. El análisis se enfoca en Distribución de Especies: ¿Hay un desequilibrio en la representación de las especies? ¿Alguna especie está mucho más o menos representada?<br>
+Calidad del Datos: Los valores faltantes pueden indicar problemas en la recolección de datos o en ciertas características de las especies.<br>
+Comparaciones entre Especies: Las diferencias en la masa corporal promedio, la desviación estándar y la varianza entre las especies pueden revelar patrones biológicos interesantes.
 ## Herramientas y Tecnologías Utilizadas
 - Python
 - Jupyter Notebook
-- Bibliotecas de Python como Pandas, NumPy, Matplotlib, Seaborn (u otras que hayas utilizado)
+- Bibliotecas de Python como Pandas, NumPy, Matplotlib, Seaborn 
 
 ## Instalación y Ejecución
 Para ejecutar este notebook:
@@ -23,9 +24,7 @@ Descripción de los archivos y directorios importantes del proyecto (si aplica).
 ## Contribuciones
 Las contribuciones son siempre bienvenidas. Por favor, lee el archivo CONTRIBUTING.md para detalles sobre nuestro código de conducta, y el proceso para enviarnos solicitudes de cambios (pull requests).
 
-## Licencia
-Este proyecto está bajo la Licencia [tu licencia] - ver el archivo LICENSE.md para más detalles.
 
 ## Contacto
-Tu Nombre - [tu email]
-Perfil de LinkedIn - [tu perfil de LinkedIn]
+Rafael Carpio
+Perfil de LinkedIn - [https://www.linkedin.com/in/rafaelc1532/]
